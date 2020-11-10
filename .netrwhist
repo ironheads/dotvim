@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/ironhead/ClassHomeWork/multithread-cgi-server'
+let g:netrw_dirhist_5='/Users/ironhead/.npminstall_tarball'
+let g:netrw_dirhist_4='/Users/ironhead/.npm'
+let g:netrw_dirhist_3='/Users/ironhead/ironhead-blog/node_modules'
+let g:netrw_dirhist_2='/Users/ironhead/.config/nvim'
+let g:netrw_dirhist_1='/Users/ironhead/.config/nvim/plugged'
+let g:netrw_dirhist_0='/Users/ironhead/.config/nvim'
+let g:netrw_dirhist_9='/Users/ironhead/.config/nvim/config'
+let g:netrw_dirhist_8='/Users/ironhead/dotfiles'
+let g:netrw_dirhist_7='/Users/ironhead'
